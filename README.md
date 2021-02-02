@@ -1,2 +1,3 @@
 # PV_Cell_Design
-Design Optimization Code for Solar Cell Front Contact Grid
+Design Optimization Code written for Solar Cell Front Contact Grid
+Optimization Parameter: Total Power Loss
